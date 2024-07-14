@@ -6,7 +6,9 @@ Este proyecto es una aplicación para análisis de sentimiento de comentarios. U
 ## Descripción
 
 La API expone un endpoint `/predice` que acepta peticiones `POST` con un texto procesado y devuelve una predicción de supervivencia.
-Se incluye en `/code` el fichero `Proyecto_M7.ipynb` donde esta el paso a paso como se realiza el modelo y el vectorizador
+Se incluye en `code.zip` el fichero `Proyecto_M7.ipynb` donde esta el paso a paso como se realiza el modelo y el vectorizador.
+
+Dentro del archivo presentación.zip se encuentra ppt realizada.
 
 ## Requisitos
 
@@ -20,7 +22,7 @@ Se incluye en `/code` el fichero `Proyecto_M7.ipynb` donde esta el paso a paso c
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
+    git clone https://github.com/ChrisPoupin/T.Final-Python.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
